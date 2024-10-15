@@ -1,12 +1,13 @@
 ## Hi there, I'm Cheran 👋
 
-I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cybersecurity which are showcased in projects below. I have also achieved certifications in CompTIA Security+ and Microsoft Azure Fundamentals AZ-900.
+I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cybersecurity which are showcased in the projects below. I have also achieved certifications in CompTIA Security+ and Microsoft Azure Fundamentals AZ-900.
 
 ## Projects
 |Project| 
 |-------|
 |<a href="https://github.com/cheran99/Build-A-SIEM-Lab.git">Build A SIEM Lab</a>| 
 |<a href="https://github.com/cheran99/Set-Up-A-Home-Lab.git">Build A Home Lab</a>|
+|<a href="https://github.com/cheran99/SOC-Automation">SOC Automation</a>|
 
 ## Certifications 
 <div>
