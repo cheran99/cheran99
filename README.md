@@ -1,6 +1,6 @@
 ## Hi there, I'm Cheran 👋
 
-I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cybersecurity which are showcased in the projects below. I have also achieved certifications in CompTIA Security+ and Microsoft Azure Fundamentals AZ-900.
+I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cybersecurity which are showcased in the projects below. I have also achieved certifications in CompTIA Security+, CySA+, and Microsoft Azure Fundamentals AZ-900.
 
 ## Projects
 |Project| 
