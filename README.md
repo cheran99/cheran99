@@ -1,10 +1,11 @@
 ## Hi there, I'm Cheran 👋
 
-I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cybersecurity which are showcased in the projects below. I have also achieved certifications in CompTIA Security+, CySA+, and Microsoft Azure Fundamentals AZ-900.
+I am a BEng Manufacturing Engineering graduate with a profound interest in technology and a dedication to solving complex problems and protecting the digital landscape. I have acquired and applied the skills and knowledge in cloud and cybersecurity which are showcased in the projects below. I have also achieved certifications in CompTIA Security+, CySA+, and Microsoft Azure Fundamentals AZ-900.
 
 ## Projects
 |Project| 
 |-------|
+|<a href="https://github.com/cheran99/Azure-Multi-Tier-App">Multi-Tier Application on Azure</a>|
 |<a href="https://github.com/cheran99/SIEM-Lab-With-Splunk">SIEM Lab With Splunk</a>|
 |<a href="https://github.com/cheran99/Vulnerability-Management">Vulnerability Management</a>|
 |<a href="https://github.com/cheran99/Setting-Up-A-Basic-Firewall">Setting Up A Basic Firewall</a>|
