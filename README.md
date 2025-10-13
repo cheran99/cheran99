@@ -5,13 +5,14 @@ I am a BEng Manufacturing Engineering graduate with a profound interest in techn
 ## Projects
 | Project | Description |
 |---------|-------------|
-| [Multi-Tier Application on Azure](https://github.com/cheran99/Azure-Multi-Tier-App) | Deploying a scalable multi-tier web application using Azure services. |
-| [SIEM Lab With Splunk](https://github.com/cheran99/SIEM-Lab-With-Splunk) | Setting up Splunk to collect, analyse, and visualise security events. |
-| [Vulnerability Management](https://github.com/cheran99/Vulnerability-Management) | Identifying, assessing, and remediating vulnerabilities using industry tools. |
-| [Setting Up A Basic Firewall](https://github.com/cheran99/Setting-Up-A-Basic-Firewall) | Configuring and testing a firewall to secure network traffic. |
-| [SOC Automation](https://github.com/cheran99/SOC-Automation) | Automating SOC workflows with scripts and integrations. |
-| [Build A SIEM Lab](https://github.com/cheran99/Build-A-SIEM-Lab) | Creating a simulated SIEM environment for security monitoring practice. |
-| [Build A Home Lab](https://github.com/cheran99/Set-Up-A-Home-Lab) | Designing and deploying a home lab for hands-on cybersecurity training. |
+| [End-To-End DevSecOps Pipeline On Google Cloud Platform](https://github.com/cheran99/End-to-End-DevSecOps-Pipeline-with-CI-CD) | Automated a secure web application deployment using an end-to-end CI/CD pipeline with integrated DevSecOps practices. |
+| [Multi-Tier Application on Azure](https://github.com/cheran99/Azure-Multi-Tier-App) | Deployed a scalable multi-tier web application using Azure services. |
+| [SIEM Lab With Splunk](https://github.com/cheran99/SIEM-Lab-With-Splunk) | Configured Splunk to collect, analyse, and visualise security events. |
+| [Vulnerability Management](https://github.com/cheran99/Vulnerability-Management) | Conducted vulnerability assessments to identify, prioritise, and remediate security risks using industry-standard tools. |
+| [Setting Up A Basic Firewall](https://github.com/cheran99/Setting-Up-A-Basic-Firewall) | Configured and tested a firewall to secure network traffic. |
+| [SOC Automation](https://github.com/cheran99/SOC-Automation) | Automated SOC workflows with scripts and integrations to streamline incident response. |
+| [ELK SIEM Lab](https://github.com/cheran99/Build-A-SIEM-Lab) | Created a simulated SIEM environment for security monitoring practice. |
+| [AWS Security Home Lab](https://github.com/cheran99/Set-Up-A-Home-Lab) | Designed and deployed a AWS security home lab for hands-on cybersecurity training. |
 
 ## Tech Stack
 <div>
